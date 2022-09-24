@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Conidae</string>
+    <string name="btnStart">Start</string>
+    <string name="btnLog">Log</string>
+    <string name="btnTune">Tuning</string>
+    <string name="btnReturn">RETURN</string>
+    <string name="txtX">方位角</string>
+    <string name="txtY">前後の傾き</string>
+    <string name="txtZ">左右の傾き</string>
+    <string name="btnManual">MANUAL</string>
+    <string name="rightValue">右</string>
+    <string name="leftValue">左</string>
+    <string name="txtRight">右の出力</string>
+    <string name="txtLeft">左の出力</string>
+    <string name="txtAzimuth">目標方位</string>
+    <string name="txtSeek">Azimuth</string>
+    <string name="btnTest">TEST</string>
+</resources>
